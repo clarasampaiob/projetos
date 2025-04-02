@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66d9cbad-2421-4463-833c-455cb8b08894" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;clarasampaio.b&quot;,
+      &quot;fullname&quot;: &quot;clarasampaio.b&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://git.ecrescer.cwi.com.br/clarasampaio.b-2021-1/batalha-ninja.git&quot;,
+    &quot;second&quot;: &quot;550b10c1-0fa2-49eb-8994-c058329dbf25&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2qZRLgzwSzWEELnQnVu46116n8s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.BatalhaTest.deveAtualizarOChakraDoOponenteDeAcordoComODanoDoJutsoQuandoAtacar.executor": "Run",
+    "JUnit.BatalhaTest.deveRetornarNinjaComJutsuMaisForteSeOsDoisGastamOMesmoChakra.executor": "Run",
+    "JUnit.BatalhaTest.deveRetornarPrimeiroNinjaComoVencedorQuandoEmpatar.executor": "Run",
+    "JUnit.BatalhaTest.deveRetornarPrimeiroNinjaComoVencedorQuandoONomeForItachi.executor": "Run",
+    "JUnit.BatalhaTest.deveRetornarSegundoNinjaComoVencedorQuandoONomeForItachi.executor": "Run",
+    "JUnit.BatalhaTest.executor": "Run",
+    "JUnit.BatalhaTest.teste.executor": "Run",
+    "JUnit.BatalhaTest.verificarConsumoeDanoComValorSuperior.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.BatalhaTest">
+    <configuration name="BatalhaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="naruto" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BatalhaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatalhaTest.deveAtualizarOChakraDoOponenteDeAcordoComODanoDoJutsoQuandoAtacar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="naruto" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BatalhaTest" />
+      <option name="METHOD_NAME" value="deveAtualizarOChakraDoOponenteDeAcordoComODanoDoJutsoQuandoAtacar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatalhaTest.deveRetornarPrimeiroNinjaComoVencedorQuandoEmpatar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="naruto" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BatalhaTest" />
+      <option name="METHOD_NAME" value="deveRetornarPrimeiroNinjaComoVencedorQuandoEmpatar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatalhaTest.deveRetornarSegundoNinjaComoVencedorQuandoONomeForItachi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="naruto" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BatalhaTest" />
+      <option name="METHOD_NAME" value="deveRetornarSegundoNinjaComoVencedorQuandoONomeForItachi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatalhaTest.verificarConsumoeDanoComValorSuperior" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="naruto" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BatalhaTest" />
+      <option name="METHOD_NAME" value="verificarConsumoeDanoComValorSuperior" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BatalhaTest" />
+        <item itemvalue="JUnit.BatalhaTest.verificarConsumoeDanoComValorSuperior" />
+        <item itemvalue="JUnit.BatalhaTest.deveRetornarSegundoNinjaComoVencedorQuandoONomeForItachi" />
+        <item itemvalue="JUnit.BatalhaTest.deveRetornarPrimeiroNinjaComoVencedorQuandoEmpatar" />
+        <item itemvalue="JUnit.BatalhaTest.deveAtualizarOChakraDoOponenteDeAcordoComODanoDoJutsoQuandoAtacar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66d9cbad-2421-4463-833c-455cb8b08894" name="Changes" comment="" />
+      <created>1734868057250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734868057250</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/naruto$BatalhaTest_teste.ic" NAME="BatalhaTest.teste Coverage Results" MODIFIED="1734888148190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>

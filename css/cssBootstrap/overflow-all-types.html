@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .container {
+            width: 200px;
+            height: 200px;
+            border: 1px solid #000;
+            margin-bottom: 1rem;
+        }
+        .hidden {
+            overflow: hidden;
+        }
+        .scroll {
+            overflow: scroll;
+        }
+        .auto {
+            overflow: auto;
+        }
+        .content {
+            height: 300px;
+            width: 300px;
+            background-color: lightcoral;
+        }
+    </style>
+    <title>Overflow Example</title>
+</head>
+<body>
+
+<h2>overflow: hidden</h2>
+<div class="container hidden">
+    <div class="content">This content is larger than the container and will be hidden.</div>
+</div>
+
+<h2>overflow: scroll</h2>
+<div class="container scroll">
+    <div class="content">This content is larger than the container and will be scrollable.</div>
+</div>
+
+<h2>overflow: auto</h2>
+<div class="container auto">
+    <div class="content">This content is larger than the container and will be scrollable only if necessary.</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f1e420a-b012-4d96-91a7-ed492b84a7b1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Exception" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;clarasampaio.b&quot;,
+      &quot;fullname&quot;: &quot;clarasampaio.b&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://git.ecrescer.cwi.com.br/clarasampaio.b-2021-1/senhor-dos-aneis.git&quot;,
+    &quot;second&quot;: &quot;550b10c1-0fa2-49eb-8994-c058329dbf25&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2qllcdaxybGpBzTDvC7b6hOUk5S" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.GameTest.AtaqueArqueiroComSociedade.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.GuerreirosNaoPodemSeMover.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.arqueiroComSociedadeMove1Casa.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.arqueiroComSociedadeMove2Casas.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.arqueiroComSociedadeSeMove.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.arqueiroSemSociedadeMove1Casa.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.arqueiroSemSociedadeMove2Casas.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.arqueiroSemSociedadeSeMove.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.arqueirosNaoAtacam.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueArqueiroComSociedade.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueArqueiroComSociedade1Inimigo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueArqueiroComSociedade2Inimigos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueArqueiroComSociedade3Inimigos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueArqueiroComSociedadeInimigosMistos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueArqueiroSemSociedade.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueArqueiroSemSociedade1Inimigo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueArqueiroSemSociedade2Inimigos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueArqueiroSemSociedade3Inimigos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueArqueiroSemSociedadeInimigosMistos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueGuerreiroComSociedade.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueGuerreiroSemSociedade.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueMagoComSociedade.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.ataqueMagoSemSociedade.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.batalhaConstituicaoTeste100praTodos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.batalhateste.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.deveLancarSauronDominaOMundoExceptionQuandoBoromirBatalharSozinhoContraUrukhai.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.deveLancarSauronDominaOMundoExceptionQuandoInimigosDerrotaremMembrosDaSociedade.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.deveLancarSauronDominaOMundoExceptionQuandoLegolasBatalharSozinhoContraOrcEUrukhai.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.deveVencerSociedadeQuandoAragornELegolasBatalharemContraOrcEGoblim.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.deveVencerSociedadeQuandoGandalfBatalharSozinhoContraSaruman.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.guerreiroNaoAtaca.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.instancias.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.magoNaoAtaca.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.magosNaoPodemSeMover.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.metodosMapa.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.GameTest.moverGuerreiroDaSociedadeComFrenteLivre.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.moverGuerreiroSemSociedadeComFrenteLivre.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.moverGuerreiroSocFrenteLivre.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.moverMagoDaSociedadeComFrenteLivre.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.moverMagoSemSociedadeComFrenteLivre.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.nomap.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameTest.removerPersonagens.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SimuladorTest.deveLancarSauronDominaOMundoExceptionQuandoBoromirBatalharSozinhoContraUrukhai.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SimuladorTest.deveLancarSauronDominaOMundoExceptionQuandoInimigosDerrotaremMembrosDaSociedade.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SimuladorTest.deveLancarSauronDominaOMundoExceptionQuandoLegolasBatalharSozinhoContraOrcEUrukhai.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SimuladorTest.deveVencerSociedadeQuandoAragornELegolasBatalharemContraOrcEGoblim.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SimuladorTest.deveVencerSociedadeQuandoGandalfBatalharSozinhoContraSaruman.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.gameTest.buscarPosicaoPersonagem.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.gameTest.encontrarPersonagem.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.gameTest.inserirPersonagensMapa.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.gameTest.instancias.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.gameTest.metodosMapa.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.gameTest.naoEncontrarPersonagem.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.gameTest.verificarPosicaoLivre.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="racas" />
+      <recent name="personagens" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GameTest">
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="senhorDosAneis" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.deveLancarSauronDominaOMundoExceptionQuandoBoromirBatalharSozinhoContraUrukhai" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="senhorDosAneis" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameTest" />
+      <option name="METHOD_NAME" value="deveLancarSauronDominaOMundoExceptionQuandoBoromirBatalharSozinhoContraUrukhai" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.deveLancarSauronDominaOMundoExceptionQuandoLegolasBatalharSozinhoContraOrcEUrukhai" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="senhorDosAneis" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameTest" />
+      <option name="METHOD_NAME" value="deveLancarSauronDominaOMundoExceptionQuandoLegolasBatalharSozinhoContraOrcEUrukhai" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.deveVencerSociedadeQuandoAragornELegolasBatalharemContraOrcEGoblim" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="senhorDosAneis" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameTest" />
+      <option name="METHOD_NAME" value="deveVencerSociedadeQuandoAragornELegolasBatalharemContraOrcEGoblim" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.deveVencerSociedadeQuandoGandalfBatalharSozinhoContraSaruman" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="senhorDosAneis" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameTest" />
+      <option name="METHOD_NAME" value="deveVencerSociedadeQuandoGandalfBatalharSozinhoContraSaruman" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameTest" />
+        <item itemvalue="JUnit.GameTest.deveLancarSauronDominaOMundoExceptionQuandoBoromirBatalharSozinhoContraUrukhai" />
+        <item itemvalue="JUnit.GameTest.deveLancarSauronDominaOMundoExceptionQuandoLegolasBatalharSozinhoContraOrcEUrukhai" />
+        <item itemvalue="JUnit.GameTest.deveVencerSociedadeQuandoGandalfBatalharSozinhoContraSaruman" />
+        <item itemvalue="JUnit.GameTest.deveVencerSociedadeQuandoAragornELegolasBatalharemContraOrcEGoblim" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f1e420a-b012-4d96-91a7-ed492b84a7b1" name="Changes" comment="" />
+      <created>1735245123474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735245123474</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/senhorDosAneis$GameTest_arqueiroSemSociedadeMove2Casas.ic" NAME="GameTest.arqueiroSemSociedadeMove2Casas Coverage Results" MODIFIED="1735610510415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>

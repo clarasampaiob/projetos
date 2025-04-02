@@ -1,0 +1,103 @@
+.depoimentos-header{
+    margin-bottom: 50px;
+}
+
+.pic{
+    height: 80px;
+    width: 80px;
+    margin-right: 20px;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+.data{
+    font-size: 12px;
+    margin-top: 0;
+}
+
+.profile{
+    display: flex;
+    align-items: center;
+}
+
+.card{
+    width: 91%;
+    padding: 20px;
+}
+
+
+.features-title{
+    display: flex;
+    justify-content: center;
+    padding-top: 58px;
+}
+
+.features-phone {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    order: 2;
+}
+
+
+.features-card{
+    width: 338px;
+    height: 138px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 70px;
+}
+
+.features-card img{
+    height: 50px;
+    width: 50px;
+    margin-right: 70px;
+}
+
+.features-card-title{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.features-card-text{
+    font-size: 14px;
+    margin-top: 0;
+    line-height: 1.8;
+}
+
+.card-group-1,
+.card-group-2{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%; 
+}
+
+.card-group-1{order: 1;}
+.card-group-2{order: 3;}
+
+.features{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-bottom: 0;
+    /* border: 1px solid red; */
+
+}
+
+.block .title{
+    margin-bottom: 40px;
+}
+
+
+@media (max-width: 1119px) {
+    #contato{height: 1100px !important;}
+    #contato .start-1-2 { margin-bottom: 90px !important;}
+}

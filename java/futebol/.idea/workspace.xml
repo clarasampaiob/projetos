@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ac65bdb-baf7-4e33-a528-03d0a9924e9d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;clarasampaio.b&quot;,
+      &quot;fullname&quot;: &quot;clarasampaio.b&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://git.ecrescer.cwi.com.br/clarasampaio.b-2021-1/mercado-da-bola.git&quot;,
+    &quot;second&quot;: &quot;550b10c1-0fa2-49eb-8994-c058329dbf25&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2qfnQjMjtZXw7NlQiVzpMlCho7x" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.NegociacaoTest.AtacanteInteressadoClube.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.acrescimo4PorCentoGoleiro.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.atacanteDesinteressado.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.atacanteInteressado.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.cadastrarAtacantesReputacaoMaiorQue10ouNegativa.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.cadastrarClubeNull.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.compraAtacanteConservador.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.compraAtacanteMais30AnosConservador.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.compraGoleiro.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.compraLateral.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.compraLateralMais28Anos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.compraMeioCampo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.compraMeioCampoMais30Anos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.compraZagueiro.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.compraZagueiroMais30Anos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.deveCalcularCorretamenteOPrecoDoMeioCampoComMaisDeTrintaAnos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.deveCalcularCorretamenteOPrecoDoMeioCampoComMenosDeTrintaAnos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.deveSerPossivelNegociarUmGoleiroComUmClubeQueTemSaldoEmCaixa.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.goleiroInteressadoClube.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.goleiroMuitoCaro.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.meioCampoDesinteressado.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.meioCampoInteressado.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.meioCampoInteressadoClube.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.naoDeveSerPossivelNegociarPorFaltaDeCaixaDisponivel.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.naoDeveSerPossivelNegociarUmAtacanteComUmClubeQueTemReputacaoHistoricaMenorQueASua.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.naoNegociarAtacante.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.naoNegociarGoleiro.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.naoNegociarLateral.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.naoNegociarMeioCampo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.negociarAtacante.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.negociarAtacanteMais30Anos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.negociarGoleiro.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.negociarLateral.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.negociarMeioCampo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.negociarMeioCampoMais30Anos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.negociarZagueiro.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NegociacaoTest.negociarZagueiroMais30Anos.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.NegociacaoTest">
+    <configuration name="NegociacaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="futebol" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NegociacaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NegociacaoTest.compraGoleiro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="futebol" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NegociacaoTest" />
+      <option name="METHOD_NAME" value="compraGoleiro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NegociacaoTest.compraZagueiro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="futebol" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NegociacaoTest" />
+      <option name="METHOD_NAME" value="compraZagueiro" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NegociacaoTest.compraZagueiroMais30Anos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="futebol" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NegociacaoTest" />
+      <option name="METHOD_NAME" value="compraZagueiroMais30Anos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NegociacaoTest.goleiroInteressadoClube" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="futebol" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NegociacaoTest" />
+      <option name="METHOD_NAME" value="goleiroInteressadoClube" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NegociacaoTest" />
+        <item itemvalue="JUnit.NegociacaoTest.goleiroInteressadoClube" />
+        <item itemvalue="JUnit.NegociacaoTest.compraZagueiroMais30Anos" />
+        <item itemvalue="JUnit.NegociacaoTest.compraZagueiro" />
+        <item itemvalue="JUnit.NegociacaoTest.compraGoleiro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ac65bdb-baf7-4e33-a528-03d0a9924e9d" name="Changes" comment="" />
+      <created>1735062485141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735062485141</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/futebol$NegociacaoTest_atacanteDesinteressado.ic" NAME="NegociacaoTest.atacanteDesinteressado Coverage Results" MODIFIED="1735077093548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>

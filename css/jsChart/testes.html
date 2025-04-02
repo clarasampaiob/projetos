@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stacked Bar Chart Example</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.0/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script> <!-- Include Chart.js datalabels plugin -->
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-12"> <!-- Increase the column size for larger chart area -->
+                <canvas id="myChart" width="600" height="200"></canvas> <!-- Increase canvas size -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        Chart.register(ChartDataLabels); // Register Chart.js datalabels plugin
+
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const labels = ['33,35', '33,60', '33,85', '33,90', '33,95', '34,00', '34,05', '34,10', '34,35', '34,50', '34,58', '34,60', '34,85', '35,35', '35,50', '35,85', '36,10'];
+
+
+        /*
+        for (let i = 0; i < 10; i++) {
+            labels.push(i.toString());
+        }
+        */
+
+
+        const data1 = [3, 4, 20, 1, 2, 3, 1, 9, 35, 12, 2, 22, 62, 100, 10, 40, 36];
+        const data2 = [-20, -3, -55, -1, -2, -4, -4, -2, -18, -9, -50, -5, -1, -1, -5, -2];
+
+        // Custom text for positive and negative bars
+        const positiveText = ['', '', '33,85', '', '', '', '', '', '34,35', '34,50', '', '34,60', '34,85', '35,35', '35,50', '35,85', '36,10'];
+        const negativeText = ['33,35', '33,60', '33,85', '', '', '', '', '34,10', '34,35', '', '34,58', '', '34,85', '', '', '', ''];
+
+        // Choose colors for positive and negative bars
+        const positiveColor = 'rgba(51, 255, 51, 0.7)'; // Green color for positive bars
+        const negativeColor = 'rgba(255, 26, 26, 0.7)'; // Red color for negative bars
+
+        // Define color for the text of positive and negative labels
+        const positiveTextColor = 'white';
+        const negativeTextColor = 'white';
+
+        const positiveLabelColor = 'green';
+        const negativeLabelColor = 'red';
+
+        // Set the maximum value for the y-axis
+        //const yAxisMaxValue = 900;
+
+
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [
+                    {
+                        label: 'Positive',
+                        data: data1,
+                        backgroundColor: positiveColor,
+                        borderWidth: 1,
+                        barThickness: 6
+                    },
+                    {
+                        label: 'Negative',
+                        data: data2,
+                        backgroundColor: negativeColor,
+                        borderWidth: 1,
+                        barThickness: 6
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                responsive: true, // Make the chart responsive
+                layout: {
+                    padding: {
+                        left: 90,
+                        right: 90
+                        //top: 20
+                        //bottom: 20
+                    }
+                },
+                scales: {
+                    x: {
+                        stacked: true,
+                        beginAtZero: true,
+                        min: -120,
+                        max: 120,
+                        grid: {
+                            display: false // Hide x-axis grid lines
+                        },
+                        ticks: {
+                            stepSize: 40 // Set the step size between ticks on the X-axis
+                        }
+                    },
+                    y: {
+                        stacked: true,
+                        min: -300, // Set the minimum value of the y-axis to the negative of the maximum value
+                        max: 300, // Set the maximum value of the y-axis
+                        grid: {
+                            display: false // Hide y-axis grid lines
+                        },
+                       // maxTicks: 5 // Specify the maximum number of ticks on the y-axis
+                    }
+                },
+                plugins: {
+                    datalabels: {
+                        align: function(context) {
+                            var value = context.dataset.data[context.dataIndex];
+                            return value > 0 ? 'end' : 'start';
+                        },
+                        anchor: function(context) {
+                            var value = context.dataset.data[context.dataIndex];
+                            return value > 0 ? 'end' : 'start';
+                        },
+                        borderRadius: 2,
+                        color: function(context) {
+                            // Set text color based on the value
+                            return context.dataset.data[context.dataIndex] > 0 ? positiveTextColor : negativeTextColor;
+                        },
+                        backgroundColor: 'transparent', // Transparent background
+                        borderColor: 'transparent', // Transparent border
+                        borderWidth: 1,
+                        formatter: function(value, context) {
+                            // Display custom text for positive and negative bars
+                            return context.dataset.data[context.dataIndex] > 0 ? positiveText[context.dataIndex] : negativeText[context.dataIndex];
+                        },
+                        padding: 11,
+                        textStrokeColor: function(context) {
+                            // Set text shadow color based on the value with reduced opacity
+                            return context.dataset.data[context.dataIndex] > 0 ? positiveLabelColor : negativeLabelColor;
+                        },
+                        textStrokeWidth: 13, // Set the width of the text shadow
+                        textShadowBlur: 3, // Set the blur radius of the text shadow
+                        textShadowOffsetX: 5, // Set the horizontal offset of the text shadow
+                        textShadowOffsetY: 1 // Set the vertical offset of the text shadow
+                    },
+                    legend: {
+                        position: 'bottom', // Position the legend below the chart
+                        marging: { top: 50 }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

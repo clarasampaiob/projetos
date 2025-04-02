@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b0f4100-570e-4255-80b7-55ccfea93d7a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="Exception" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPENED",
+    "assignee": {
+      "type": "org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue",
+      "username": "clarasampaio.b",
+      "fullname": "clarasampaio.b"
+    }
+  }
+}]]></component>
+  <component name="GitLabMergeRequestsSettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "first": "https://git.ecrescer.cwi.com.br/clarasampaio.b-2021-1/dicionario.git",
+    "second": "550b10c1-0fa2-49eb-8994-c058329dbf25"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2qlVHZgvsiR8QbtHlezDUa5Szqa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.DicionarioTest.cadastrarPalavras.executor": "Run",
+    "JUnit.DicionarioTest.deveLancarExceptionQuandoUmaPalavraNaoForEncontrada.executor": "Run",
+    "JUnit.DicionarioTest.deveTraduzirCarroELivroDoInglesParaPortuguesEDoPortuguesParaOIngles.executor": "Run",
+    "JUnit.DicionarioTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.DicionarioTest">
+    <configuration name="DicionarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dicionario" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DicionarioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DicionarioTest.cadastrarPalavras" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dicionario" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DicionarioTest" />
+      <option name="METHOD_NAME" value="cadastrarPalavras" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DicionarioTest.deveLancarExceptionQuandoUmaPalavraNaoForEncontrada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dicionario" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DicionarioTest" />
+      <option name="METHOD_NAME" value="deveLancarExceptionQuandoUmaPalavraNaoForEncontrada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DicionarioTest.deveTraduzirCarroELivroDoInglesParaPortuguesEDoPortuguesParaOIngles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dicionario" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DicionarioTest" />
+      <option name="METHOD_NAME" value="deveTraduzirCarroELivroDoInglesParaPortuguesEDoPortuguesParaOIngles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DicionarioTest" />
+        <item itemvalue="JUnit.DicionarioTest.cadastrarPalavras" />
+        <item itemvalue="JUnit.DicionarioTest.deveTraduzirCarroELivroDoInglesParaPortuguesEDoPortuguesParaOIngles" />
+        <item itemvalue="JUnit.DicionarioTest.deveLancarExceptionQuandoUmaPalavraNaoForEncontrada" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b0f4100-570e-4255-80b7-55ccfea93d7a" name="Changes" comment="" />
+      <created>1735237061662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735237061662</updated>
+    </task>
+    <servers />
+  </component>
+</project>

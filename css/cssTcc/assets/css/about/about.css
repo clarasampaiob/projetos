@@ -1,0 +1,77 @@
+#time .sub-title{
+    margin-top: -12px;
+    margin-bottom: 4rem;
+}
+
+.icon-text p{
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.icon-text img {
+    width: 63px;
+    height: 63px;
+}
+
+
+.valores {
+    width: 35%;
+    /* border: 1px solid red; */
+    padding: 20px;
+}
+
+.resume p{
+    line-height: 2;
+    font-size: 18px;
+    margin-top: 0;
+}
+
+#time .content-between{
+    flex-wrap: wrap;
+}
+
+
+.galery{
+    display: flex;
+    gap: 56px;
+}
+
+#time .banner-content{
+    position: absolute; 
+    flex-direction: column;
+    justify-content: end;
+    align-items: start;
+    padding-inline: 15px;
+    opacity: 0; /* invisível inicialmente */
+    transition: opacity 0.3s ease; /* suavizar transição */
+}
+
+#time .banner-content .title{
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+#time .banner-content .banner-text{
+    font-size: 14px;
+}
+
+#time .banner {
+    position: relative;
+    overflow: hidden; 
+}
+
+#time .banner::after,
+#time .banner::before{
+    opacity: 0; /* invisível inicialmente */
+    transition: opacity 0.7s ease; /* suavizar transição */
+}
+
+#time .banner:hover::after,
+#time .banner:hover::before {
+    opacity: 1; /* ficar visível */
+}
+
+#time .banner:hover .banner-content {
+    opacity: 1; /* ficar visível */
+    visibility: visible; 
+}

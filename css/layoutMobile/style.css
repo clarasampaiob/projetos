@@ -1,0 +1,33 @@
+.app{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.app-header{
+    /* height: 10vh; */
+    flex-basis: 15%; /* É como utilizar height, só que ele pega a % do espaço do container flex (usado com flex) */
+    background-color: aquamarine;
+}
+
+.app-content{
+    border: 3px solid red;
+    margin: 5px 0;
+    background-color: red;
+    flex-grow: 1;
+}
+
+.app-footer{
+    height: 60px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around; /* Inline mas dá uma margin automatica entre os elementos */
+    align-items: center;
+}
+
+.app-footer-link{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid black;
+}

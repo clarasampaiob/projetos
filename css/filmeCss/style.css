@@ -1,0 +1,64 @@
+body {
+    margin: 0; 
+    height: 100vh; 
+    background-image: url('https://pop.proddigital.com.br/wp-content/uploads/sites/8/2022/11/analise-harry-potter-e-o-calica-de-fogo-divulgacao.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    overflow-y: hidden;
+  }
+
+
+  .box{
+    background-color: aliceblue;
+    margin: 0 auto;
+    margin-top: 1.2rem;
+    width: 45rem;
+  }
+
+  .header{
+    text-align: center;
+    padding-top: 10px;
+  }
+
+  .sinopse{
+    margin: 25px;
+    text-align: justify;
+  }
+
+  .trailer{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: larger;
+  }
+
+  .trailer a{
+    text-decoration: none;
+  }
+
+  .personagens{
+    width: 42rem;
+    margin-left: 36px;
+  }
+
+  .info{
+    display: inline-block;
+  }
+
+  .info p{
+    font-weight: bold;
+  }
+
+  .personagens img{
+    width: 120px; 
+    height: 120px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    object-position: center;
+    margin-right: 8px;
+  }
+
+  
+
+
+  

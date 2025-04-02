@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07ee8046-273a-4fa6-bc38-56919a497b37" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;clarasampaio.b&quot;,
+      &quot;fullname&quot;: &quot;clarasampaio.b&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://git.ecrescer.cwi.com.br/clarasampaio.b-2021-1/exploracao-espacial.git&quot;,
+    &quot;second&quot;: &quot;550b10c1-0fa2-49eb-8994-c058329dbf25&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2qi9bYzeT2tAGZIvlE2r0lWoV6N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ExplorarTest.deveFicarADerivaQuandoFaltarCombustivelParaIrAteUmPlaneta.executor": "Run",
+    "JUnit.ExplorarTest.deveTerValorPorPesoQuandoExistirRecursosNoPlaneta.executor": "Run",
+    "JUnit.ExplorarTest.deveTerValorPorPesoZeradoQuandoNaoExistirNenhumRecurso.executor": "Run",
+    "JUnit.ExplorarTest.deveTerValorTotalQuandoExistirRecursosNoPlaneta.executor": "Run",
+    "JUnit.ExplorarTest.deveTerValorTotalZeradoQuandoNaoExistirNenhumRecurso.executor": "Run",
+    "JUnit.ExplorarTest.executor": "Run",
+    "JUnit.ExplorarTest.explorarPlanetasComPrioridade.executor": "Run",
+    "JUnit.ExplorarTest.explorarPlanetasComPrioridadeCaso1.executor": "Run",
+    "JUnit.ExplorarTest.explorarPlanetasComPrioridadeCaso2.executor": "Run",
+    "JUnit.ExplorarTest.explorarSomenteUmPlaneta.executor": "Run",
+    "JUnit.ExplorarTest.explorarVariosPlanetas.executor": "Run",
+    "JUnit.ExplorarTest.naveFicaADerivaParaRetornarDaRotaDeUmUnicoPlaneta.executor": "Run",
+    "JUnit.ExplorarTest.somarValoresRecursos.executor": "Run",
+    "JUnit.ExplorarTest.verificarListaPlanetas.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ExplorarTest">
+    <configuration name="ExplorarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exploracaoEspacial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExplorarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplorarTest.explorarPlanetasComPrioridade" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exploracaoEspacial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExplorarTest" />
+      <option name="METHOD_NAME" value="explorarPlanetasComPrioridade" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplorarTest.explorarPlanetasComPrioridadeCaso1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exploracaoEspacial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExplorarTest" />
+      <option name="METHOD_NAME" value="explorarPlanetasComPrioridadeCaso1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplorarTest.explorarPlanetasComPrioridadeCaso2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exploracaoEspacial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExplorarTest" />
+      <option name="METHOD_NAME" value="explorarPlanetasComPrioridadeCaso2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplorarTest.naveFicaADerivaParaRetornarDaRotaDeUmUnicoPlaneta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exploracaoEspacial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExplorarTest" />
+      <option name="METHOD_NAME" value="naveFicaADerivaParaRetornarDaRotaDeUmUnicoPlaneta" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExplorarTest" />
+        <item itemvalue="JUnit.ExplorarTest.explorarPlanetasComPrioridadeCaso2" />
+        <item itemvalue="JUnit.ExplorarTest.explorarPlanetasComPrioridadeCaso1" />
+        <item itemvalue="JUnit.ExplorarTest.explorarPlanetasComPrioridade" />
+        <item itemvalue="JUnit.ExplorarTest.naveFicaADerivaParaRetornarDaRotaDeUmUnicoPlaneta" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07ee8046-273a-4fa6-bc38-56919a497b37" name="Changes" comment="" />
+      <created>1735134600777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735134600777</updated>
+    </task>
+    <servers />
+  </component>
+</project>

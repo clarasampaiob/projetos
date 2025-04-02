@@ -1,0 +1,152 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body{ 
+	margin:0 auto;
+	background-image:url(../_imagens/fundo.jpg);
+	}
+
+#interface{
+	width: 1024px;
+	height: 0 auto;
+	margin:0 auto;		
+}
+
+header#cabecalho{
+	width: 1024px; 
+	height: 150px;
+	margin-top: 0 px;
+	
+}
+
+nav#menu{
+	width: 1024px; 
+	height: 50px; 
+	float: right;
+	margin-top: 100px;
+	background-image:url(../_imagens/texturam.jpg);
+	}
+
+section#corpo{
+	width: 1024px; 
+	height: 100%;
+	margin: 170px 50px 0px 0px;
+				
+}
+
+section#conteudo{
+	width: 1024px;
+	height: 100%; 
+	text-align:center;
+	margin-top: -20px;
+	padding: 10px;
+	margin-left:40px;
+	
+}
+
+/*definição de fonte*/
+#conteudo h1{
+	font-size: 30px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;	
+}
+
+section#conteudo1{
+	width: 1024px;
+	height: 100%;
+	margin-top: -20px;
+	padding: 10px;
+	margin-left:40px;
+}
+
+
+
+footer#rodape{
+	width: 1024px; 
+	height: 100%; 
+	float:left;
+	margin: 20px 0 0px 0;
+	
+}
+#rodape h3{
+	text-align:center;
+	font-family:"Lucida Console", Monaco, monospace;
+}
+
+#rodape p{
+	text-align:center;
+}
+
+/*definições do menu*/
+
+#menu ul{
+	padding: 20px;
+	margin: 0;
+	margin-left: 70px;
+	margin-top: -20px;
+	list-style: none;
+	float: left;
+}
+
+#menu ul li{
+	display:inline;
+	float:left;
+	margin-right:10px;
+	position:relative;
+}
+#menu ul li p{
+	margin:10px 30px 0 0;
+	padding:0;
+	font-size:15pt;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#menu ul li a{
+	color: #FFF;
+	text-decoration: none;
+	padding: 5px;
+	display:block;
+	margin: 0;
+	float:left;
+}
+
+#menu ul li a:hover{
+	background-color: #FFF;
+	color: #000;
+}
+
+#menu ul li ul{
+	display:none;
+	float:none;
+	left:0;
+	margin: 0px 0 0 0px;
+	position: absolute;
+	top: 100%;
+	z-index: 1;
+}
+
+#menu ul li:hover > ul{
+	display:inline;
+}
+
+#menu ul li ul li,
+#menu ul li ul li a{
+	float: none;
+	background-color:#000;
+	color:#FFF;
+	margin: 0 0 0 0;
+}
+
+#menu ul li ul li a:hover{
+	float: none;
+	background-color:#FFF;
+	color:#F00;
+}
+
+#menu ul li ul li ul{
+	left: 100%;
+	top: 0;
+}
+
+
+
+
+

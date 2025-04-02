@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+    .box-relative{
+        position: relative;
+        width: 500px;
+        height: 500px;
+        background-color: palevioletred;
+    }
+
+    .box-absolute{
+        position:absolute;
+        width: 250px;
+        height: 250px;
+        background-color: blue;
+        /* left: 80%; */
+        left: 50%;
+    }
+</style>
+</head>
+<body>
+
+    <div class="box-relative">
+        <div class="box-absolute"></div>
+    </div>
+    
+    <!-- O box relative tem movimento próprio, podendo ir por cima de outros elementos sem movimentar o resto como se fosse uma margin -->
+    <!-- O absolute que precisa ficar dentro do relativa pra eu conseguir calcular quanto vou movimentar ele dentro do box da relative -->
+    <!-- As propriedades de ambos é top left bottom right apenas -->
+     <!-- Z-INDEX é o valor que vc dá pra um elemento ir pra frente de outro -->
+
+</body>
+</html>

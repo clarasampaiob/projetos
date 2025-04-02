@@ -1,0 +1,31 @@
+.page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.photo img{
+    width:400px;
+    height: 500px;
+}
+
+.texto{
+    position: absolute;
+    background-color: #0000007e;
+    color: white;
+    height: 130px;
+    bottom: 4px;
+}
+
+.texto p{
+    font-size: 13px;
+    text-align: justify;
+    padding: 8px;
+    padding-top: 2px;
+    line-height: 1.1;
+}
+
+.photo{
+    position: relative;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Inline vs Block with Bootstrap</title>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<style>
+    .box {
+        width: 10rem;
+        height: 5rem;
+        background-color: lightblue;
+        margin: 0.5rem;
+    }
+</style>
+</head>
+<body>
+    <!-- Flex wrap para garantir que o numero the boxes dentro nao vão passar o container da tela quebrando pra outra linha -->
+    <!-- Justify content between garante que os boxes ocupem o espaço do width completamente e os ajuste (fazer teste sem p/ ver) -->
+    <div class="d-flex flex-wrap justify-content-between">
+        <div class="box">1</div>
+        <div class="box">2</div>
+        <div class="box">3</div>
+        <div class="box">4</div>
+        <div class="box">5</div>
+        <div class="box">6</div>
+        <div class="box">7</div>
+        <div class="box">8</div>
+        <div class="box">9</div>
+        <div class="box">10</div>
+    </div>
+    <!-- D block para colocar os items alinhados um embaixo do outro -->
+    <div class="d-block">
+        <div class="box">1</div>
+        <div class="box">2</div>
+        <div class="box">3</div>
+        <div class="box">4</div>
+        <div class="box">5</div>
+    </div>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

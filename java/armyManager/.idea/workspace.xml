@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bfe53b2-c807-4129-b93b-822ab51cc207" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;clarasampaio.b&quot;,
+      &quot;fullname&quot;: &quot;clarasampaio.b&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://git.ecrescer.cwi.com.br/clarasampaio.b-2021-1/army-manager.git&quot;,
+    &quot;second&quot;: &quot;550b10c1-0fa2-49eb-8994-c058329dbf25&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2r7t75M1Cx8SS49z4cmWkji47GF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.SimulacaoTest.deveCalcularOCustoToralComSalariosCorretamente.executor": "Run",
+    "JUnit.SimulacaoTest.deveCalcularOCustoTotalComCombustivelCorretamente.executor": "Run",
+    "JUnit.SimulacaoTest.executor": "Run",
+    "JUnit.SimulacaoTest.validarTripulacaoAviao.executor": "Run",
+    "JUnit.SimulacaoTest.validarTripulacaoCaminhao.executor": "Run",
+    "JUnit.SimulacaoTest.validarTripulacaoHelicoptero.executor": "Run",
+    "JUnit.SimulacaoTest.validarTripulacaoTanque.executor": "Run",
+    "JUnit.simulacaoTest.criarVeiculos.executor": "Run",
+    "JUnit.simulacaoTest.deveCalcularOCustoTotalDaMissaoCorretamente.executor": "Run",
+    "JUnit.simulacaoTest.executor": "Run",
+    "JUnit.simulacaoTest.verificarSeTripulacaoEValida.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.SimulacaoTest">
+    <configuration name="SimulacaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="armyManager" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimulacaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulacaoTest.validarTripulacaoAviao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="armyManager" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimulacaoTest" />
+      <option name="METHOD_NAME" value="validarTripulacaoAviao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulacaoTest.validarTripulacaoCaminhao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="armyManager" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimulacaoTest" />
+      <option name="METHOD_NAME" value="validarTripulacaoCaminhao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulacaoTest.validarTripulacaoHelicoptero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="armyManager" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimulacaoTest" />
+      <option name="METHOD_NAME" value="validarTripulacaoHelicoptero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulacaoTest.validarTripulacaoTanque" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="armyManager" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimulacaoTest" />
+      <option name="METHOD_NAME" value="validarTripulacaoTanque" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimulacaoTest" />
+        <item itemvalue="JUnit.SimulacaoTest.validarTripulacaoTanque" />
+        <item itemvalue="JUnit.SimulacaoTest.validarTripulacaoAviao" />
+        <item itemvalue="JUnit.SimulacaoTest.validarTripulacaoHelicoptero" />
+        <item itemvalue="JUnit.SimulacaoTest.validarTripulacaoCaminhao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bfe53b2-c807-4129-b93b-822ab51cc207" name="Changes" comment="" />
+      <created>1735921770879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735921770879</updated>
+    </task>
+    <servers />
+  </component>
+</project>

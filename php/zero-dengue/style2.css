@@ -1,0 +1,199 @@
+.denuncia_bg{
+	background-image: url(layout/denuncia_pic.jpeg);
+	background-size: cover; /* AJUSTAR NA TELA INTEIRA */
+	background-position: center;
+	background-attachment: fixed; /* PRA IMAGEM NAO SOFRER SCROLL */
+	background-repeat: no-repeat;
+}
+
+.table_bg{
+	background-image: url(layout/table_pic.jpg);
+	background-size: cover; /* AJUSTAR NA TELA INTEIRA */
+	background-position: center;
+	background-attachment: fixed; /* PRA IMAGEM NAO SOFRER SCROLL */
+	background-repeat: no-repeat;
+}
+
+.perfil_bg{
+	background-image: url(layout/profile_pic.jpg);
+	background-size: cover; /* AJUSTAR NA TELA INTEIRA */
+	background-position: center;
+	background-attachment: fixed; /* PRA IMAGEM NAO SOFRER SCROLL */
+	background-repeat: no-repeat;
+}
+
+.formulario{
+	margin-left: 68%;
+	margin-top: 10%;
+	color: white;
+}
+
+.formulario label{
+	color: #DD7EA3;
+}
+
+.formulario input{
+	margin-top: 5%;
+	margin-bottom: 1%;
+	width: 75%;
+	border-top: none; /* TIRAR A BORDA */
+	border-right: none;
+	border-left: none;
+	border-width: 1px; /* ESPESSURA DA BORDA */
+	border-color: rgba(255,255,255,0.4);
+	background-color: rgba(255,255,255,0);
+	text-transform: uppercase;
+	/*color: #a8a81c;*/
+	color: white;
+}
+
+.formulario option{
+	background-color: black;
+	color: white;
+}
+
+.formulario select{
+	background-color: black;
+	color: #BB0E53;
+}
+
+.margin{
+	margin-left: 10%;
+}
+
+.formulario .botao{
+	margin-left: 35%;
+	margin-bottom: 5%;
+	border-radius: 5%;
+	padding: 2%;
+	border-bottom: 5%;
+	border: solid #BB0E53;
+	border-width: 1px;
+	font-weight: bold;
+	width: 20%;
+	color:#BB0E53;
+}
+
+.botao:hover{
+	background-color:#BB0E53;
+	color: white; 
+}
+
+.tabela table{
+	background-color: rgba(255,255,255,0.8);
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	font-size: 16px;
+}
+
+.tabela table td{
+	border-bottom: 1px solid black;
+	padding: 10px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.titulo{
+	font-weight: bolder;
+	font-size: 14px;
+	text-transform: uppercase;
+	background-color: #C69F95;
+}
+
+.tabela caption{
+	background-color: #A46B5C;
+	font-size: 30px;
+	color:white;
+	border:1px solid black;
+}
+
+.box_form{
+	margin-top: -240px;
+	margin-bottom: -15px;
+	margin-left: 300px;
+	margin-right: 450px;
+	background-color: black;
+	border:black solid;
+}
+
+.box_form input{
+	margin-top: 3%;
+	margin-bottom: 1%;
+	margin-left: -100px;
+	margin-right: -200px;
+	width: 50%;
+	border-top: none;
+	border-right: none;
+	border-left:none;
+	border-color: rgba(255,255,255,0.4);
+	border-width:1px;
+	background-color: black;
+	text-transform: uppercase;
+	color:white;
+}
+
+.box_form label{
+	color: #A28415;
+	margin-left: -28%;
+}
+
+.box_form select{
+	background-color: black;
+	color: white;
+}
+.box_form select option{
+	background-color: black;
+	color: white;
+}
+
+.box_form .estado{
+	margin-left: -19%;
+}
+
+.box_form .estado_select{
+	margin-left: -27.5%;
+	margin-top: 1%;
+}
+
+.box_form .sexo{
+	position:absolute;
+	margin-top: -3%;
+	margin-left: 5%;
+}
+
+/*.box_form{
+	color: white;
+}*/
+
+.box_form .sexo_select{
+	position: absolute;
+	margin-left: -15.6%;
+	margin-top: -2.5%;
+}
+
+.box_form .posicao{
+	margin-top: -9%;
+}
+
+
+.box_form .posicao label{
+	margin-left: -27%;
+}
+
+.box_form .btn_form{
+	margin-left: -20%;
+	margin-top: -10%;
+	border-radius: 5%;
+	padding: 1%;
+	border: solid #A28415;
+	width: 14%;
+	color: #A28415;
+	font-weight: bold;
+	background-color: black;
+}
+
+.box_form .btn_form:hover{
+	background-color:#A28415;
+	color: white;
+}

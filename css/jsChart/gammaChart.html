@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stacked Bar Chart Example</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script> <!-- Include Chart.js datalabels plugin -->
+</head>
+<body>
+    <canvas id="myChart"></canvas>
+
+    <script>
+        Chart.register(ChartDataLabels); // Register Chart.js datalabels plugin
+
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const labels = [];
+
+        for (let i = 0; i < 10; i++) {
+            labels.push(i.toString());
+        }
+
+        const data1 = [30, 54, 7, 90, 61, 58, 35, 22, 190, 120];
+        const data2 = [-3, -20, -41, -9, -11, -13, -50, -70, -19, -170];
+
+        // Custom text for positive and negative bars
+        const positiveText = ['whatever', 'Good', 'Great', 'Awesome', 'Amazing', 'Fantastic', 'Superb', 'Terrific', 'Brilliant', 'Impressive'];
+        const negativeText = ['House', 'Coffee', 'Book', 'Table', 'Room', 'Animal', 'Cat', 'Dog', 'Snake', 'Mouse'];
+
+        // Choose colors for positive and negative bars
+        const positiveColor = 'rgba(75, 192, 192, 0.5)'; // Green color for positive bars
+        const negativeColor = 'rgba(255, 99, 132, 0.5)'; // Red color for negative bars
+        const positiveLabel = 'rgba(105, 102, 152, 0.5)'; // Green color for positive bars
+        const negativeLabel = 'rgba(205, 9, 102, 0.5)'; // Red color for negative bars
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [
+                    {
+                        label: 'Positive',
+                        data: data1,
+                        backgroundColor: positiveColor,
+                        borderWidth: 1
+                    },
+                    {
+                        label: 'Negative',
+                        data: data2,
+                        backgroundColor: negativeColor,
+                        borderWidth: 1
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                scales: {
+                    x: {
+                        stacked: true,
+                        beginAtZero: true
+                    },
+                    y: {
+                        stacked: true
+                    }
+                },
+                plugins: {
+                    datalabels: {
+                        align: function(context) {
+                            var value = context.dataset.data[context.dataIndex];
+                            return value > 0 ? 'end' : 'start';
+                        },
+                        anchor: function(context) {
+                            var value = context.dataset.data[context.dataIndex];
+                            return value > 0 ? 'end' : 'start';
+                        },
+                        borderRadius: 3,
+                        color: 'white',
+                        backgroundColor: function(context) {
+                            // Choose background color based on value
+                            return context.dataset.data[context.dataIndex] > 0 ? positiveLabel : negativeLabel;
+                        },
+                        formatter: function(value, context) {
+                            // Display custom text for positive and negative bars
+                            return context.dataset.data[context.dataIndex] > 0 ? positiveText[context.dataIndex] : negativeText[context.dataIndex];
+                        },
+                        padding: 6,
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

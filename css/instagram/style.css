@@ -1,0 +1,116 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #d9dbde;
+}
+
+.instagram-post {
+    min-width: 395px;
+    width: 395px;
+    height: 700px;
+    border: 10px solid #333;
+    border-radius: 30px;
+    background: #fff;
+    overflow: hidden;
+}
+
+.header {
+    max-width: 100%;
+}
+
+.page{
+    height: 635px;
+    display: flex;
+    flex-direction: column;
+}
+
+.user-header{
+    display: flex;
+    padding: 0.5px 15px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.user-info{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    align-content: space-around;
+}
+
+
+.info p{
+    margin: 0; 
+    font-weight: bold;
+    color:rgb(97, 97, 97);
+}
+
+.info p:first-child {font-size: 12px;}
+.info p:nth-child(2) {font-size: 10px;}
+.bs-dots{display: flex; align-items: center;}
+
+.photo{
+    display: flex;
+    align-items: center;
+}
+
+.photo img{
+    width: 35px; 
+    height: 35px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    object-position: center;
+    margin-right: 10px;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;   
+}
+
+.btn-group{
+    display: flex;
+    justify-content: space-between;
+    padding: 1px 15px;
+    padding-top: 15px;
+    align-items: center;
+}
+
+
+.btn-group img{
+    margin-right: 9px;
+}
+
+.user-post{
+    flex-grow: 1;
+    overflow: hidden; 
+}
+
+.user-post img{
+    width:400px;
+    height: 500px;
+    object-fit: cover; 
+    object-position: center; 
+}
+
+
+.views {
+    display: flex; 
+    justify-content: flex-start; 
+    align-items: center; 
+    margin-top: -0.5rem;
+    padding-left: 16px;
+    margin-bottom: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    color:rgb(70, 69, 69);
+}
+
+

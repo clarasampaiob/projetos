@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="929e540a-79e3-4a6b-88ca-7e8446be0b11" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;clarasampaio.b&quot;,
+      &quot;fullname&quot;: &quot;clarasampaio.b&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://git.ecrescer.cwi.com.br/clarasampaio.b-2021-1/calculadora.git&quot;,
+    &quot;second&quot;: &quot;550b10c1-0fa2-49eb-8994-c058329dbf25&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2qXNvJJZ4BQQeGr3a6kEOI9OWsj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.Calculos.deveCalcularBhaskara.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Calculos.deveCalcularExponenciacao.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Calculos.deveCalcularRaizQuadrada.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Calculos.deveDividirCorretamenteQuandoNumerosForemInteiros.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Calculos.deveDividirCorretamenteQuandoNumerosPossuemPontosFlutuantes.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Calculos.deveMultiplicarCorretamenteQuandoNumerosForemInteiros.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Calculos.deveSomarCorretamenteQuandoOsValoresForemInteiro.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Calculos.deveSomarCorretamenteQuandoOsValoresForemInteiros.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Calculos.deveSomarNumerosBhaskara.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Calculos.deveSubtrairCorretamenteQuandoNumerosPossuemPontosFlutuantes.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Calculos.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculosTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.CalculosTest">
+    <configuration name="CalculosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculosTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculosTest.deveCalcularExponenciacao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculosTest" />
+      <option name="METHOD_NAME" value="deveCalcularExponenciacao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculosTest.deveCalcularRaizQuadrada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculosTest" />
+      <option name="METHOD_NAME" value="deveCalcularRaizQuadrada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculosTest.deveSomarNumerosBhaskara" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculosTest" />
+      <option name="METHOD_NAME" value="deveSomarNumerosBhaskara" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculosTest.deveSubtrairCorretamenteQuandoNumerosPossuemPontosFlutuantes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculosTest" />
+      <option name="METHOD_NAME" value="deveSubtrairCorretamenteQuandoNumerosPossuemPontosFlutuantes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculosTest" />
+        <item itemvalue="JUnit.CalculosTest.deveSomarNumerosBhaskara" />
+        <item itemvalue="JUnit.CalculosTest.deveCalcularExponenciacao" />
+        <item itemvalue="JUnit.CalculosTest.deveCalcularRaizQuadrada" />
+        <item itemvalue="JUnit.CalculosTest.deveSubtrairCorretamenteQuandoNumerosPossuemPontosFlutuantes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="929e540a-79e3-4a6b-88ca-7e8446be0b11" name="Changes" comment="" />
+      <created>1734805188660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734805188660</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

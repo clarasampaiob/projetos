@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+#mapa{
+	width: 1024px;
+	height: 100%;
+	float: left;
+	margin: 0 0 30px 20px;
+	z-index:inherit;
+	
+}
+#mapa h2{
+	text-align:center;
+}
+
+#home{
+	width: 256px;
+	height: 180px;
+	float: left;
+	z-index: 1;
+}
+
+#home a{
+	text-decoration: none;	
+}
+
+#dicas{
+	width: 256px;
+	height: 180px;
+	float: left;
+}
+
+
+#dicas a{
+	text-decoration: none;	
+}
+
+#roupas{
+	width: 256px;
+	height: 180px;
+	float: left;
+}
+
+#roupas a{
+	text-decoration: none;
+	
+}
+
+#quem_somos{
+	width: 256px;
+	height: 180px;
+	float: left;	
+}
+
+#quem_somos a{
+	text-decoration: none;	
+}
+
+#contato{
+	width: 256px;
+	height: 180px;
+	float: left;	
+}
+
+#contato a{
+	text-decoration: none;
+	
+}

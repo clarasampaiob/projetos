@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "018d7b32-fb43-4b75-b99d-5d5e78b1dc9a",
+		"name": "API Vue-Python",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43665029"
+	},
+	"item": [
+		{
+			"name": "Buscar Operadoras",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/buscar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"buscar"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

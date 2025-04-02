@@ -1,0 +1,29 @@
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cadastro_de_Pedido.resources
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Controle_de_Entregadores.resources
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Controle_de_Produtos.resources
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Empresas_Terceirizadas.resources
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lab11\Desktop\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cadastro_de_Pedido.resources
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Controle_de_Entregadores.resources
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Controle_de_Produtos.resources
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Empresas_Terceirizadas.resources
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Portfólio 1\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Portfólio 1\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Documents\Clara\Programação\Unopar Ads\A# - Trabalhos e Portifólios\Portfólio 1\Protótipo de Telas\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

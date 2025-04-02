@@ -1,0 +1,198 @@
+.cadastro_bg{
+	background-image: url(layout/cadastro_pic.jpeg);
+	background-size: cover; /* AJUSTAR NA TELA INTEIRA */
+	background-position: center;
+	background-attachment: fixed; /* PRA IMAGEM NAO SOFRER SCROLL */
+	background-repeat: no-repeat;
+}
+
+.login_bg{
+	background-image: url(layout/login_pic.jpeg);
+	background-size: cover; /* AJUSTAR NA TELA INTEIRA */
+	background-position: center;
+	background-attachment: fixed; /* PRA IMAGEM NAO SOFRER SCROLL */
+	background-repeat: no-repeat;
+}
+
+.home_bg{
+	background-image: url(layout/home_pic.jpeg);
+	background-size: cover; /* AJUSTAR NA TELA INTEIRA */
+	background-position: center;
+	background-attachment: fixed; /* PRA IMAGEM NAO SOFRER SCROLL */
+	background-repeat: no-repeat;
+}
+
+.forms{
+	border: solid black;
+	border-color: #ced134;
+	background: rgba(1,1,1,0.8); /* COR PRETA COM 0.8 DE TRANSPARENCIA */
+	margin: 51%; /* ESPEÇAMENTO ENTRE A DIV E OS CANTOS DA TELA */
+	margin-left: 16%;
+	margin-top: 4%;
+	margin-bottom: 5%;
+	border-radius: 5%; /* ARREDONDAR A BORDA */
+}
+
+.cadastro_form{
+	padding: 7%; /* ESPAÇAMENTO DENTRO DA DIV ENTRE O FORMULARIO */
+	padding-left: 9%;
+	padding-top: 5%;
+	padding-bottom: 2%;
+}
+
+input {
+	text-transform: uppercase; /* LETRA MAIUSCULA */
+	margin-top: 3%;
+	margin-bottom: 0.5%;
+	width: 95%; /* LARGURA*/
+	padding: 1.4%; /* ESPAÇAMENTO DO TEXTO DENTRO DO INPUT */
+	padding-bottom: 0.4%;
+	border-top: none; /* TIRAR A BORDA */
+	border-right: none;
+	border-left: none;
+	border-width: 1px; /* ESPESSURA DA BORDA */
+	border-color: rgba(255,255,255,0.4);
+	background-color: rgba(255,255,255,0);
+	color: #a8a81c;
+	font-style: italic;
+}
+
+.radio{
+	width: 3%;
+	margin-bottom: 3%;
+}
+
+select{
+	width: 23%;
+	margin-right: 7%;
+	background-color: rgba(1,1,1,0);
+}
+
+option{
+	background-color: black;
+	color: white;
+}
+
+.botao{
+	width:20%;
+	margin-left: 38%;
+	margin-bottom: 5%;
+	border-radius: 10%;
+	padding: 2%;
+	border-bottom: 5%;
+	border: solid #a8a81c;
+	border-width: 1px;
+	font-weight: bold;
+}
+
+.botao:hover{
+	background-color:#a8a81c;
+	color: white; 
+}
+
+.lateral {
+	margin-top: 3%;
+	margin-bottom: 6%;
+	width:88%;
+}
+
+.lowercase {
+	text-transform: lowercase;
+}
+
+.nenhum {
+	text-transform: none;
+}
+
+label{
+	color: white;
+	font-weight: bold;
+	margin-bottom: 13%;
+}
+
+label .black{
+	color: black;
+}
+
+body{
+	color: white;
+	font-size: 13.5px;
+}
+
+.login_box{
+	border:solid #7CCC3E;
+	margin: 62%;
+	margin-left:3%;
+	margin-top: 4%;
+	border-radius: 4%;
+	background-color: rgba(1,1,1,0.87);
+}
+
+.login_form{
+	padding-right: 2%;
+	padding-left: 5%;
+	padding-top: 3%;
+	padding-bottom: 2%;
+}
+
+.login_label{
+	color: #7CCC3E;
+}
+
+.login_input{
+	background-color: black;
+	border:none;
+	width:95%;
+	color:white;
+	margin-top: 2.4%;
+	margin-bottom: 1.5%;
+	font-size: 16px;
+}
+
+.login_btn{
+	width:20%;
+	margin-left: 77%;
+	margin-top: 0.5%;
+	margin-bottom: 0.5%;
+	border-radius: 10%;
+	border-bottom:none;
+	border: solid #7CCC3E;
+	border-width: 1px;
+	padding:1.4%;
+	color: #7CCC3E;
+	font-weight: bold;
+}
+
+.login_btn:hover{
+	background-color: #7CCC3E;
+	color: white;
+}
+
+.home_menu{
+	border:solid rgba(0,0,0,0.0);
+	margin-left: 72%;
+	margin-top: 11%;
+	margin-right: 3%;
+	background-color: rgba(0,0,0,0.2);
+	border-radius: 4%;
+
+}
+img{
+	width: 95%;
+	/*border:solid black;*/
+}
+
+.lista{
+	margin-top: 25%;
+}
+
+li{
+	list-style: none;
+}
+
+img:hover{
+	border: solid white 2px;
+}
+
+
+

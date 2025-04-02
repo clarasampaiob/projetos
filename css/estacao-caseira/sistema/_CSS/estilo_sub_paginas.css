@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+
+section#corpo1{
+	width: 1280px; 
+	height: 100%;
+	margin: 160px 0 -250px 0;
+				
+}
+
+section#conteudo1{
+	width: 1024px;
+	height: 300px; 
+	text-align:center;
+	margin-top: -20px;
+	/*bordas arredondadas e fundo preto opaco*/
+	background-color:rgba(0,204,153,.3);
+	float: left;
+	border-radius:10px;
+}
+#conteudo1 h1{
+	text-align: center;
+	font-size: 30px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#conteudo1 h4{
+	text-align: center;
+	font-size: 16px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+
+section#conteudo2{
+	width: 990px;
+	height: 100%; 
+	text-align:center;
+	margin: 0 auto;
+	margin-top: -20px;
+	margin-left: 10px;
+	padding: 15px;
+	/*bordas arredondadas e fundo preto opaco*/
+	background-color:rgba(0,204,153,.3);
+	float: left;
+	border-radius:10px;
+}
+#conteudo2 h1{
+	text-align: center;
+	font-size: 30px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#conteudo2 h4{
+	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+/*section de imagens*/
+
+section#imagens{
+	width: 245px;
+	height: 100%; 
+	text-align:center;
+	float:left;
+}
+
+#imagens img{
+	width:150px;
+	height: 150px;
+}
+#imagens h6{
+	text-align:center;
+	font-size:10;
+	font-family:"Courier New", Courier, monospace;
+}
+/*definições do menu categoria*/
+
+section#categoria{
+	width: 250px;
+	height: 100%; 
+	text-align:center;
+	margin-top: -20px;
+	/*bordas arredondadas e fundo preto opaco*/
+	background-color:rgba(0,204,153,.3);
+	float: left;
+	border-radius:10px;
+	z-index: 1;
+}
+#categoria h1{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#categoria ul{
+
+	padding: 15px;
+	margin: -30px 0 0 0;
+	list-style: none;
+	float: left;
+	
+}
+
+#categoria ul li h4{
+	margin:10px 60px 0 0;
+	padding:0;
+	font-size:11pt;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	z-index: 1; 
+}
+
+#categoria ul li a{
+	color: #000;
+	text-decoration: none;
+	padding: 5px;
+	display:block;
+	margin: 0;
+	float:left;
+
+}
+
+#categoria ul li a:hover{
+	background-color: #FFF;
+	color: #F00;
+	
+}
+
+
+
+
+
+
+

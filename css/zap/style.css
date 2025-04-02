@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Segoe UI';
+}
+
+.page{
+    display: flex;
+    overflow: hidden;
+
+}
+
+.chats{
+    width: 411px;
+}
+
+ul{
+    list-style: none;
+}
+
+.msgs{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.user{
+    display: flex;
+    flex-direction: column;
+    height: 60px;
+    background-color: #EDEDED;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    height: 80px;
+}
+
+.displ{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    padding: 0px 15px;
+}
+
+.photo, .dots, .foto{
+    display: flex;
+    align-items: center;
+    height: 100%; /*100% tamnaho da classe pai*/
+}
+
+
+.photo img{
+    width: 40px; 
+    height: 40px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    object-position: center;
+    margin-right: 10px;
+}
+
+.foto img{
+    width: 55px; 
+    height: 55px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    object-position: center;
+    margin-right: 10px;
+}
+
+.talk p:first-child{
+    margin-bottom: 0;
+    font-size: 18px;
+    color: #494848;
+}
+
+.talk p:nth-child(2){
+    margin-top: 0.2em;
+    font-size: 12px;
+    color: #888888;
+}
+
+.talk{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    margin-bottom: 0; 
+}
+
+.hora{
+    font-size: 10px;
+    color: #888888;
+}
+
+.contact{
+    border-bottom: 1px solid #EDEDED;
+}
