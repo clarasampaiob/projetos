@@ -57,7 +57,7 @@ IGNORE 1 ROWS
 SET saldo_inicial = COALESCE(CAST(NULLIF(REPLACE(REGEXP_REPLACE(TRIM(@saldo_inicial), '[^0-9,-]', ''), ',', '.'), '') AS DECIMAL(30, 2)), 0), saldo_final = COALESCE(CAST(NULLIF(REPLACE(REGEXP_REPLACE(TRIM(@saldo_final), '[^0-9,-]', ''), ',', '.'), '') AS DECIMAL(30, 2)), 0);
 
 
-LOAD DATA INFILE 'C:/xampp/mysql/data/csv/2T2023.csv'
+LOAD DATA INFILE 'C:/xampp/mysql/data/csv/2t2023.csv'
 IGNORE
 INTO TABLE demonstrativos_contabeis
 FIELDS TERMINATED BY ';'
