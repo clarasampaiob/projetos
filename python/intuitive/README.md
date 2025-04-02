@@ -6,8 +6,7 @@ O código foi desenvolvido em python (backend), vue.js (frontend) e MySql (banco
 
 O código se encontra no diretório scraping e executa os seguintes requisitos:
 
-- [Acesso ao site](https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-
-sociedade/atualizacao-do-rol-de-procedimentos)
+- [Acesso ao site](https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos)
 
 - Download dos Anexos I e II em formato PDF
 
